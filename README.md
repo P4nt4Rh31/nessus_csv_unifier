@@ -44,19 +44,19 @@ Descripción: En el contexto de un proceso de pentesting, es común generar múl
 
 Nessus CSV Unifier automatiza este proceso de consolidación, permitiendo a los analistas de seguridad ahorrar tiempo y reducir el riesgo de errores humanos. El script realiza las siguientes acciones:
 
-    Lectura de Archivos CSV: Busca y lee todos los archivos CSV en el directorio especificado.
-    Manejo de Errores: Captura y registra cualquier error que ocurra durante la lectura de los archivos.
-    Consolidación de Datos: Combina los datos de todos los archivos CSV en un único DataFrame.
-    Registro de Actividades: Mantiene un log detallado de las acciones realizadas y errores encontrados.
-    Exportación de Datos: Guarda el DataFrame consolidado en un nuevo archivo CSV listo para su análisis.
+Lectura de Archivos CSV: Busca y lee todos los archivos CSV en el directorio especificado.
+Manejo de Errores: Captura y registra cualquier error que ocurra durante la lectura de los archivos.
+Consolidación de Datos: Combina los datos de todos los archivos CSV en un único DataFrame.
+Registro de Actividades: Mantiene un log detallado de las acciones realizadas y errores encontrados.
+Exportación de Datos: Guarda el DataFrame consolidado en un nuevo archivo CSV listo para su análisis.
 
 Para utilizar este script, sigue estos pasos:
 
-    Coloca todos los archivos CSV que deseas consolidar en el mismo directorio que el script.
+Coloca todos los archivos CSV que deseas consolidar en el mismo directorio que el script.
 
-    Ejecuta el script en tu entorno de Python.
+Ejecuta el script en tu entorno de Python.
 
-Ejemplo de Ejecución: 
+Ejemplo de Ejecución:
 
 python csv_unifier.py
 
@@ -64,8 +64,8 @@ python csv_unifier.py
 
 Requisitos:
 
-    Python 3.x
-    Biblioteca pandas
+Python 3.x
+Biblioteca pandas
 
 Instalación de Pandas: Puedes instalar la biblioteca pandas utilizando pip: pip install pandas
 
