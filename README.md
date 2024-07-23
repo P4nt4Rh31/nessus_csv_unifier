@@ -19,6 +19,9 @@ To use this script, follow these steps:
 
 Execution Example: python csv_unifier.py
 
+![imagen](https://github.com/user-attachments/assets/62781143-d240-4b6b-9292-7070b6299071)
+
+
 Requirements:
 
  Python 3.x
